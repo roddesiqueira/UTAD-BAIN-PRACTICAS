@@ -1,2 +1,17 @@
 .DS_Store
 **/.DS_Store
+.env
+
+# entornos virtuales
+.venv_u4/
+**/.venv*/
+
+# checkpoints de Jupyter
+**/.ipynb_checkpoints/
+
+# notebooks ejecutados (solo para verificación, no para entrega)
+*.executed.ipynb
+
+# datasets grandes que no caben en git
+ACTIVIDAD_UNIDAD_4/data/bronze/Bitcoin_tweets_dataset_2.csv
+ACTIVIDAD_UNIDAD_2/data/Bitcoin_tweets_dataset_2.csv
