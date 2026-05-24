@@ -1,0 +1,22 @@
+{
+  "num_nodos": 806,
+  "num_aristas": 622,
+  "num_comunidades": 195,
+  "top_centralidad": [
+    {
+      "usuario": "natashaajade1",
+      "centralidad": 0.0696,
+      "intermediacion": 0.0
+    },
+    {
+      "usuario": "playboycrypt0",
+      "centralidad": 0.0534,
+      "intermediacion": 0.0
+    },
+    {
+      "usuario": "chistesdelengua",
+      "centralidad": 0.0323,
+      "intermediacion": 0.0
+    }
+  ]
+}
